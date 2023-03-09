@@ -1,5 +1,5 @@
-# About
-ทีม Runout เป็นทีมเล็กๆที่กำลังจะพัฒนาเกม Thunder 2050: Lost Man Kind, Campaign ภาคแรกของเกม Thunder 2050
-แต่ทีมของเรามีผู้พัฒนาเพียง 4 คน และงานถือว่าหนักพอตัว แต่แบ่งเวลาทำเอาได้ และรับฟังทุกคนก่อนนำไปตัดสิน
+# About Runout Team's Github
+Hi Runout Devoloper, In here We trade project's files.
+If you works for leaks. Never have be!
 
-สามารถเข้าทีมได้โดยการกรอก[แบบฟอมนี้](https://forms.gle/AbKXZh3EJcQsxxyF6)จนถึงวันที่กำหนด
+[Team's Form](https://forms.gle/AbKXZh3EJcQsxxyF6)
